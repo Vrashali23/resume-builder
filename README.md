@@ -21,54 +21,34 @@ Fill in your **personal info**, **education**, **experience**, and **skills**. L
 
 ---
 
-Installation
+## Installation
 
-Clone the repository:
-
+1.Clone the repository:
 git clone https://github.com/Vrashali23/resume-builder.git
 
-
-Navigate to the project directory:
-
+2.Navigate to the project directory:
 cd resume-builder
 
-
-Install dependencies:
-
+3.Install dependencies:
 npm install
 
-
-Run the development server:
-
+4.Run the development server:
 npm run dev
-
-
 Open http://localhost:3000
  in your browser.
 
-Usage
-
+## Usage
 Add your personal info, education, experience, and skills.
-
 Auto-generate the summary if you leave it blank.
-
 Preview your resume live in the Summary Preview card.
-
 Click Download Summary to save it as a .txt file.
-
 Click Save Resume to persist data via the backend API.
 
-Technologies Used
+## Technologies Used
 
 Next.js – React framework for server-side rendering
-
 React – Frontend UI library
-
 Tailwind CSS – Utility-first CSS framework for styling
-
 UUID – For generating unique resume IDs
 
-License
 
-This project is open-source and available under the MIT License
-.
