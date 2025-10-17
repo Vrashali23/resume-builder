@@ -15,42 +15,34 @@ A modern Resume Builder web app built with **Next.js** and **React**. Users can 
 - **Download summary** as a `.txt` file  
 - Responsive and modern UI using **Tailwind CSS**
 
----
-
-## Screenshots
-
-**1. Resume Form:**  
-![Resume Form](https://via.placeholder.com/600x300?text=Resume+Form+Screenshot)
-
-**2. Preview Card:**  
-![Preview Card](https://via.placeholder.com/600x300?text=Preview+Screenshot)
-
-**3. Download Summary Button:**  
-![Download Button](https://via.placeholder.com/600x100?text=Download+Button+Screenshot)
-
-> Replace the placeholder images with your actual screenshots later.
-
----
-
 ## Demo
 
 Fill in your **personal info**, **education**, **experience**, and **skills**. Leave the summary blank to auto-generate a professional summary. Preview your resume in the **Summary Preview** card and download it as a `.txt` file.
 
 ---
 
-## Installation
+Installation
 
-1. Clone the repository:
+Clone the repository:
 
-```bash
 git clone https://github.com/Vrashali23/resume-builder.git
-2.Navigate to the project directory:
+
+
+Navigate to the project directory:
 
 cd resume-builder
-3.Install dependencies
+
+
+Install dependencies:
+
 npm install
-4.Run the development server:
+
+
+Run the development server:
+
 npm run dev
+
+
 Open http://localhost:3000
  in your browser.
 
@@ -60,11 +52,11 @@ Add your personal info, education, experience, and skills.
 
 Auto-generate the summary if you leave it blank.
 
-Preview your resume live.
+Preview your resume live in the Summary Preview card.
 
 Click Download Summary to save it as a .txt file.
 
-Click Save Resume to persist data via backend API.
+Click Save Resume to persist data via the backend API.
 
 Technologies Used
 
@@ -79,3 +71,4 @@ UUID – For generating unique resume IDs
 License
 
 This project is open-source and available under the MIT License
+.
