@@ -5,9 +5,9 @@
 1. Install dependencies
    ```bash
    npm install
-Run the dev server
+2.Run the dev server
 
 bash
 Copy code
 npm run dev
-Open http://localhost:3000
+3.Open http://localhost:3000
