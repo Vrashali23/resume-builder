@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bbb2d362-65fa-4644-9264-b43402028eba",
+    "name": "vrashali kodgire",
+    "email": "vrashalikodgire2104@gmail.com",
+    "phone": "9579559114",
+    "education": [
+      {
+        "degree": "b.tech",
+        "institution": "mgms college of engineering",
+        "years": 1
+      },
+      {
+        "degree": "diploma",
+        "institution": "gpnd",
+        "years": 1
+      },
+      {
+        "degree": "",
+        "institution": "",
+        "years": 0
+      }
+    ],
+    "experience": [
+      {
+        "company": "",
+        "role": "",
+        "years": 0
+      }
+    ],
+    "skills": [
+      "python ",
+      ""
+    ],
+    "summary": "b.tech graduate from mgms college of engineering. Skilled in python ."
+  }
+]

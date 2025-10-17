@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next { height: 100%; }
+body {
+  @apply bg-gradient-to-br from-indigo-900 via-purple-800 to-pink-900 text-slate-800;
+  background-attachment: fixed;
+}
+
+
